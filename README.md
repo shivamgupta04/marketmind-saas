@@ -1,18 +1,17 @@
 <div align="center">
-  <img src="https://www.google.com/search?q=https://via.placeholder.com/400x200.png%3Ftext%3DMarketMind+✨" alt="MarketMind Logo Banner">
+  <img src="https://via.placeholder.com/400x200.png?text=MarketMind+✨" alt="MarketMind Logo Banner">
   <h1><b>MarketMind: AI E-commerce Listing Generator</b></h1>
   <p>A full-stack SaaS application that leverages a Large Language Model (LLM) to autonomously generate complete e-commerce product listings from a single image.</p>
   
   <p>
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Gemini-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite" alt="Google Gemini">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </p>
 </div>
-
 ## 🚀 The Problem MarketMind Solves
 
 In the fast-paced world of e-commerce, creating high-quality product listings is a major bottleneck. Sellers spend hours:
@@ -21,8 +20,6 @@ In the fast-paced world of e-commerce, creating high-quality product listings is
 * 💰 Researching competitors to set an optimal price.
 
 **MarketMind automates this entire workflow.** It acts as an AI co-pilot for e-commerce sellers, reducing the time to create a compelling, market-ready listing from minutes to mere seconds.
-
-[**View the Live Demo**](https://www.google.com/search?q=https://your-live-demo-url.com) *(<- Add your deployed link here)*
 
 ## ✨ Core Features
 
