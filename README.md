@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=MarketMind+✨" alt="MarketMind Logo Banner">
   <h1><b>MarketMind: AI E-commerce Listing Generator</b></h1>
   <p>A full-stack SaaS application that leverages a Large Language Model (LLM) to autonomously generate complete e-commerce product listings from a single image.</p>
   
